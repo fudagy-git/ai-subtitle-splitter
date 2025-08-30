@@ -1,5 +1,0 @@
-{
-  "name": "AI Shorts Subtitle Splitter",
-  "description": "An AI-powered tool to automatically split SRT subtitle files for YouTube Shorts, optimizing for readability using the Gemini API.",
-  "requestFramePermissions": []
-}
